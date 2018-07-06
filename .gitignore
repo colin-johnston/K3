@@ -1,0 +1,6 @@
+.DS_Store
+
+/public/media
+/storage/cache
+/storage/sessions
+/vendor
