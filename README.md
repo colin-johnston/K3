@@ -1,9 +1,9 @@
-# Kirby Dev Kit
+# Kirby 3 Dev Kit
 
 ## Installation
 
 ```
-git clone https://github.com/k-next/devkit.git
+git clone https://github.com/electronspin/K3.git
 composer install --no-dev
 ```
 
