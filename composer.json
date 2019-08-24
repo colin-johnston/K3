@@ -1,14 +1,17 @@
 {
   "name": "getkirby/devkit",
-  "description": "Kirby Dev Kit",
+  "description": "Kirby 3 Dev Kit",
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/k-next/kirby"
+      "url": "https://github.com/electronspin/K3"
     }
   ],
   "require": {
-    "getkirby/cms": "3.0.*"
+    "php": ">=7.1.0",
+    "getkirby/cms": "^3.0"
   },
-  "minimum-stability": "beta"
+  "config": {
+    "optimize-autoloader": true
+  }
 }
